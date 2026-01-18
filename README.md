@@ -1,2 +1,3 @@
-# daschaich.github.io
-Informal online space
+# Informal online space
+
+This repository contains material for https://daschaich.github.io
